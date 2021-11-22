@@ -8,5 +8,3 @@
       Password: <br> <input type="password" name="password"> <br>
       <input type="submit" name="enviar">
     
-  </body>
-</html>
