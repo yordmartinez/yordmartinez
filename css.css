@@ -3,7 +3,7 @@ body{
   padding: 0;
   font-family: Shippori Antique;
 }
-.contener{
+.header{
   display: flex;
   width: 100%;
   heght: 80px;
